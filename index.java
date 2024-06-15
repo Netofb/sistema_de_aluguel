@@ -4,6 +4,7 @@ class main{
 
         //teste
 
-        System.out.println("Hello World");
+        System.out.println("Ola mundo");
+        System.out.println(1+2);
     }
 }
